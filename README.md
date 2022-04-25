@@ -14,8 +14,6 @@ coming ...
 
 coming ...
 
-![mobile-screenshot](https://user-images.githubusercontent.com/49184579/164456120-e918329f-1bdc-4fc2-b23d-6ee839c5b627.png)
-
 ## Built With &hearts;
 
 - HTML
